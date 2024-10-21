@@ -1,0 +1,9 @@
+Name: Mahendra Roka
+ID: 143117232
+Email: mroka1@myseneca.ca
+
+*********************
+Workshop 5 Reflection
+*********************
+
+In this workshop, I learned several important object-oriented programming ideas and how to use C++ to apply them through this project. I started by looking at operator overloading, which lets us reinterpret operators like << and >> for account transfers and +=, -= for deposits and withdrawals. I also realized how crucial type conversion operators are, as they offer flexibility when working with objects in different contexts. For example, you can turn an Account object into a bool, int, or double. I was able to better comprehend how to manage shallow and deep copies as well as assign values from one object to another by putting assignment operators into practice. I also learnt how to verify an object's status, such whether an account is new, using unary operators like '~'. Overall, this experience strengthened my understanding of operator overloading, object states, and encapsulation in C++.

@@ -1,0 +1,14 @@
+Name: Mahendra Roka
+ID: 143117232
+Email: mroka1@myseneca.ca
+
+				WORKSHOP - 1
+
+
+In this workshop, I used modular programming, namespaces, and separating the interface from the implementation. I created four different modules, each with its own header file that contained function prototypes; this allowed me to better organize the code and make it easier to read and maintain. By putting the function prototypes in the header files and keeping the actual code in the source files, I learned how to keep the implementation hidden while showing only what is necessary for others to use the functions.
+
+In order to organize the functions and structures, I additionally utilized namespaces. This helped since it avoided name conflicts, which can be problematic when working on larger projects because several modules may have the same function. The namespaces allowed me to avoid these issues by keeping everything properly organized within each module. 
+
+Linking the modules was one of the most important things I learnt. I was able to observe how the many components of the application came together to form a functional software by gathering and connecting all the modules.  This also made it easier for me to understand how C++ code is compiled and how source code is converted into object files, which are then linked together to resolve module references.
+
+Overall, this workshop improved my understanding of the use of namespaces to prevent name conflicts, the structure of C++ projects including numerous modules, and the significance of header files in defining the interfaces of each module.

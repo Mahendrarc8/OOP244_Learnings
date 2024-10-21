@@ -1,0 +1,32 @@
+﻿  file.cpp
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\file.cpp(14,6): error C2143: syntax error: missing ';' before '*'
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\file.cpp(14,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\file.cpp(14,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\file.cpp(17,15): error C2440: '=': cannot convert from 'FILE *' to 'int *'
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\file.cpp(23,13): error C2664: 'int fclose(FILE *)': cannot convert argument 1 from 'int *' to 'FILE *'
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\file.cpp(29,10): error C2664: 'int fscanf(FILE *const ,const char *const ,...)': cannot convert argument 1 from 'int *' to 'FILE *const '
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\file.cpp(35,10): error C2664: 'int fscanf(FILE *const ,const char *const ,...)': cannot convert argument 1 from 'int *' to 'FILE *const '
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\file.cpp(41,10): error C2664: 'int fscanf(FILE *const ,const char *const ,...)': cannot convert argument 1 from 'int *' to 'FILE *const '
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\file.cpp(47,10): error C2664: 'int fscanf(FILE *const ,const char *const ,...)': cannot convert argument 1 from 'int *' to 'FILE *const '
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\file.cpp(57,14): error C2664: 'int fscanf(FILE *const ,const char *const ,...)': cannot convert argument 1 from 'int *' to 'FILE *const '
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\file.cpp(81,10): error C2664: 'int fscanf(FILE *const ,const char *const ,...)': cannot convert argument 1 from 'int *' to 'FILE *const '
+  movie.cpp
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\movie.h(14,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\movie.h(14,27): error C2143: syntax error: missing ',' before '*'
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\movie.h(15,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\movie.h(15,31): error C2143: syntax error: missing ',' before '*'
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\movie.cpp(30,25): error C2065: 'movies': undeclared identifier
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\movie.cpp(57,9): error C2065: 'cout': undeclared identifier
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\movie.cpp(58,128): error C2065: 'endl': undeclared identifier
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\movie.cpp(60,13): error C2065: 'cout': undeclared identifier
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\movie.cpp(62,9): error C2065: 'cout': undeclared identifier
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\movie.cpp(62,24): error C2065: 'endl': undeclared identifier
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\movie.cpp(69,27): error C2065: 'movies': undeclared identifier
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\movie.cpp(70,17): error C2065: 'cout': undeclared identifier
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\movie.cpp(71,31): error C2065: 'movies': undeclared identifier
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\movie.cpp(75,13): error C2065: 'cout': undeclared identifier
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\movie.cpp(75,56): error C2065: 'endl': undeclared identifier
+  utils.cpp
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\utils.cpp(16,10): error C2065: 'cin': undeclared identifier
+C:\Users\mahen\OneDrive - Seneca\Desktop\COLLEGE\Semester2\OOP\lab1\oop244_lab1\oop244_lab1\utils.cpp(21,13): error C2065: 'cin': undeclared identifier
+  Generating Code...

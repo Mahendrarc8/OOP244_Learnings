@@ -1,0 +1,49 @@
+Reflection Questions:
+Answer the following questions using your own words. Make sure that each answer comprises a minimum of 100 words.
+
+1. In this milestone you were asked to design the data structure for the project. Print the data structure below then explain each item.
+
+struct Point {
+    int x;  // The x-coordinate of the point on the map.
+    int y;  // The y-coordinate of the point on the map.
+};
+
+struct Route {
+    struct Point points[25]; // An array of points representing the route.
+    int length;              // The number of points in the route.
+    Color color;             // The color associated with the route.
+};
+
+enum Color {
+    BLUE,   // Represents a blue route.
+    GREEN,  // Represents a green route.
+    YELLOW  // Represents a yellow route.
+};
+
+Explanation: The Point structure represents a location on a 2D map, defined by x and y coordinates, allowing precise positioning. The Route structure contains an array of up to 25 Points, enabling the representation of complex paths. The length attribute keeps track of how many points are in use, allowing for dynamic routes. The color attribute, defined by an enumeration, indicates the route’s visual representation. The Color enumeration includes BLUE, GREEN, and YELLOW, providing a clear categorization of routes. Using enums enhances code readability and consistency when managing multiple routes. Together, this data structure allows for effective route management and visualization within the project.
+
+
+2. Describe the process you used to analyze and understand the existing software code.
+
+To analyze and understand the existing software code, I started with an initial review to grasp its overall structure and functionality. I looked for documentation, comments, or README files to gain context on the code’s purpose and design decisions. Then, I broke the code into smaller sections, focusing on individual functions and modules to understand their roles within the system.
+
+I mapped out variables and functions, noting how data flowed through the program. Running the code with different inputs allowed me to observe outputs and understand how changes affected functionality. I used debugging tools and print statements to trace execution paths and examine variable states.
+
+If I encountered complexities, I discussed them with peers for collaborative insights. Finally, I documented my findings, summarizing the code’s functionality and structure, which provided a clear reference for future modifications and ensured I had a solid understanding of the codebase.
+
+
+3. What aspects did you consider when creating the test plan? What were the milestones you identified in the test plan?
+
+When creating the test plan, I considered several key aspects to ensure comprehensive coverage and effectiveness. First, I identified the functionality of the software, including its core features and user requirements. This helped determine which areas required thorough testing. I also considered the potential edge cases and failure scenarios to ensure robustness.
+
+Next, I evaluated the different types of testing needed, such as unit testing for individual components, integration testing for interactions between modules, and system testing for the complete application. I also factored in the testing environment to replicate real-world conditions as closely as possible.
+
+The milestones identified in the test plan included:
+
+  1. Test Case Development: Creating detailed test cases for each feature based on    		requirements.
+  2. Execution of Unit Tests: Running tests on individual components to verify 	functionality.
+  3. Integration Testing: Testing interactions between modules after successful unit 	testing.
+  4. System Testing: Performing end-to-end tests to validate overall system performance.
+  5. Bug Reporting and Fixing: Logging any issues discovered and verifying fixes.
+  6. Final Validation: Conducting a thorough review before deployment to ensure quality and 	stability.
+

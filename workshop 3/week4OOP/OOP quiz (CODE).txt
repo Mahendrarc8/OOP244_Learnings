@@ -1,0 +1,9 @@
+OOP quiz (CODE)
+- write a header file with SAFEGUARDS, CONSTRUCTORS AND DESTRUCTORS
+- FORMATTING
+- CLASS
+
+data members in class are private by default, whereas member variables in struct are public by default
+scope resolution, Student::
+
+getline

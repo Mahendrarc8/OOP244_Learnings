@@ -1,0 +1,9 @@
+Name: Mahendra Roka
+ID: 143117232
+Email: mroka1@myseneca.ca
+
+*********************
+Workshop 5 Reflection
+*********************
+
+Working on the Canister class's code has taught me a lot about object-oriented programming and C++ memory management. By introducing private members like m_contentVolume and m_contentName and offering public methods to work with these data, the class demonstrates encapsulation. I now have a better understanding of how to initialize objects with varied values using constructors and how to assure correct memory cleaning using destructors, particularly when using alocpy and freeMem to allocate memory dynamically. The return type of Canister& in functions like pour() and setContent() taught me more about method chaining. To make sure that only legitimate activities are carried out, conditionals are used to verify the canister's usage. Lastly, I understood how mathematical functions like calculating volume and capacity can be applied to a real-world object, combining both logic and design within a class structure​.

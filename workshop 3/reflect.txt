@@ -1,0 +1,7 @@
+Name: Mahendra Roka
+ID: 143117232
+Email: mroka1@myseneca.ca
+
+Workshop 3 Reflection
+
+In this code, I learned how to create a structured credit card system using object-oriented programming in C++. Through the CC class, I applied various functions to check and print credit card information according to certain conditions, namely cardholder name length, valid card number range, CVV format, and constraints about the expiration date. Through the cleanUp() and alocpy() functions, I learned about memory management with dynamic memory allocation and deallocation. The prnNumber() function taught me how to format numbers so that they appear more user-friendly using stream manipulators. Additionally, by handling edge cases like empty or invalid data using methods like isEmpty(), I improved my understanding of error handling. While I have not worked upon the main files, this class serves as a basis for a more extensive system, embodying the concepts of encapsulation, validation, and resource management in C++. 

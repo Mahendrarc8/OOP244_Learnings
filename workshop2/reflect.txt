@@ -1,0 +1,10 @@
+Name: Mahendra Roka
+ID: 143117232
+Email: mroka1@myseneca.ca
+
+
+In this workshop, I worked on two versions of the getInt() function, which helped me learn more about input validation and function overloading. One version checked if the input was within a specific range, and the other accepted the input by reference. I learned how crucial it is to verify user input is valid and how to handle problems when the input is outside of range by writing these functions. In order to keep my code simple and prevent duplicating the same code, I also reused the fundamental getInt() function. This improved readability and ease of fixing errors in the code.
+
+I also learned how to manage memory in C++ using 'new' and 'delete. I wrote functions like reverse() and getContact(), which taught me how to allocate and free memory properly. I worked with arrays of doubles and structures like Contact, and I saw how important it is to free memory when it's no longer needed to prevent memory leaks.
+
+One challenge I faced in this workshop was making sure the input validation in the getInt() functions operated correctly, particularly when verifying the input range. But overall, this experience helped me improve my skills in handling input and managing memory in C++.
